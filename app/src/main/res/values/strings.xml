@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Puzzle Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new_game">新游戏</string>
+    <string name="title_score_board">得分: 0</string>
+    <string name="title_puzzle_step">步数: 0</string>
+    <string name="action_change_image">更换图片</string>
+    <string name="action_easy">简单</string>
+    <string name="action_normal">一般</string>
+    <string name="action_hard">困难</string>
+
+</resources>
